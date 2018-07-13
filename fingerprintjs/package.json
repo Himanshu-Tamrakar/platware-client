@@ -1,0 +1,37 @@
+{
+  "_from": "fingerprintjs",
+  "_id": "fingerprintjs@0.5.3",
+  "_inBundle": false,
+  "_integrity": "sha1-ACZCL64asQA2keE2wUPhm3UnslU=",
+  "_location": "/fingerprintjs",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "fingerprintjs",
+    "name": "fingerprintjs",
+    "escapedName": "fingerprintjs",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/fingerprintjs/-/fingerprintjs-0.5.3.tgz",
+  "_shasum": "0026422fae1ab1003691e136c143e19b7527b255",
+  "_spec": "fingerprintjs",
+  "_where": "/home/decimal/Documents/PLATWARECLIENT/tpg-platware-client-web-v2.x/platwareClientPackage",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "[![Build Status](https://travis-ci.org/Valve/fingerprintjs.png)](https://travis-ci.org/Valve/fingerprintjs)",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.6.3",
+    "grunt-contrib-uglify": "~0.2.2"
+  },
+  "main": "fingerprint.js",
+  "name": "fingerprintjs",
+  "version": "0.5.3"
+}
